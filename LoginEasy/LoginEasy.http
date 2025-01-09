@@ -1,0 +1,6 @@
+@LoginEasy_HostAddress = http://localhost:5036
+
+GET {{LoginEasy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
